@@ -11,7 +11,7 @@ make
 sudo make install
 
 ## ignore changed file
-IGNORE=git update-index --assume-unchanged
+IGNORE='git update-index --assume-unchanged'
 cd ${BLD_DIR}
 ${IGNORE} deps/thrift-0.9.3/lib/csharp/test/ThriftTest/Makefile
 ${IGNORE} deps/thrift-0.9.3/lib/d/Makefile
