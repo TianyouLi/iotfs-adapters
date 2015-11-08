@@ -48,16 +48,13 @@ lib/
 node_modules
 
 # thrift src
-adapters/onvif/deps/thrift-0.9.3/**
+onvif/deps/thrift-0.9.3/**
 
 # thrift generated
-adapters/onvif/src/gen-cpp/
-adapters/onvif/deps/nodenvc/gen-nodejs/
+onvif/src/gen-cpp/
+onvif/deps/nodenvc/gen-nodejs/
 
 # downloaded/generated src
-build/plugins/oic/iotfs-oic_init.cpp
-deps/cppus/CppMicroServices/
-deps/cppus/build/
-deps/fusekit/fusekit/
-deps/iotivity/iotivity/
+onvif/deps/iotivity/
+
 
