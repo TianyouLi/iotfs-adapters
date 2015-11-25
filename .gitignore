@@ -55,6 +55,6 @@ onvif/src/gen-cpp/
 onvif/deps/nodenvc/gen-nodejs/
 
 # downloaded/generated src
-onvif/deps/iotivity/
+onvif/deps/iotivity/iotivity
 
 
